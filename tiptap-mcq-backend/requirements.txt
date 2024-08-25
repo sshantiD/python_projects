@@ -1,0 +1,6 @@
+Flask
+flask_cors
+pytest
+transformers
+tensorflow
+tf-keras
